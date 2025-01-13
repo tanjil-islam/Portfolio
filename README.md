@@ -70,7 +70,7 @@ Welcome to my portfolio! Here you can find an organized showcase of my projects,
 - **Technologies**: C
 - [View Repository](https://github.com/tanjil-islam/C-Programming)
 
-### Fundamentals of C Plus Plus Programming
+### Fundamentals of C++ Programming
 - **Description**: Basic C++ programming projects to demonstrate fundamental concepts.
 - **Technologies**: C++
 - [View Repository](https://github.com/tanjil-islam/Introduction-to-C-Plus-Plus)
