@@ -65,11 +65,6 @@ Welcome to my portfolio! Here you can find an organized showcase of my projects,
 - **Technologies**: Java
 - [View Repository](https://github.com/tanjil-islam/Basic-Programming-Java)
 
-### Intro to Programming (C++)
-- **Description**: Basic C++ programs for understanding fundamental programming concepts.
-- **Technologies**: C++
-- [View Repository](https://github.com/tanjil-islam/Intro-to-Programming-CPlusPlus)
-
 ### Fundamentals of C Programming
 - **Description**: Basic C programming projects to demonstrate fundamental concepts.
 - **Technologies**: C
